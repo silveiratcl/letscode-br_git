@@ -129,4 +129,25 @@ $ git pull
 
 ## 9 - Git branch
 
+```
+git log --online decorate
+# indica onde está o head, main, e a lista de commits
+
+git branch teste
+# create branch nameed test
+
+git checkout teste
+# troca de branch
+
+```
+
+## 10 - Merge
+
+```
+$ git checkout main #swith to main
+$ git merge test
+
+```
+
+
 
